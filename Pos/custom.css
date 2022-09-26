@@ -1,0 +1,9 @@
+#map {
+    width: 100%;
+    height: 400px;
+}
+
+.tulisan_tengah {
+    text-align: center;
+    font-weight: bold;
+}
